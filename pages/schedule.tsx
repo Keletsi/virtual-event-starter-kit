@@ -31,7 +31,7 @@ type Props = {
 
 export default function SchedulePage({ allStages }: Props) {
   const meta = {
-    title: 'Career fair - Virtual Event Starter Kit',
+    title: 'Schedule - Virtual Event Starter Kit',
     description: META_DESCRIPTION
   };
 
