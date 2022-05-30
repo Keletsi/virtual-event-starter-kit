@@ -30,7 +30,7 @@ type Props = {
 
 export default function SponsorPage({ sponsor }: Props) {
   const meta = {
-    title: 'Virtura- stageDemo - Virtual Event Starter Kit',
+    title: 'Expo - Virtual Event Starter Kit',
     description: META_DESCRIPTION
   };
 
