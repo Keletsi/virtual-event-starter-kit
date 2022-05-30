@@ -31,7 +31,7 @@ type Props = {
 
 export default function StagePage({ stage, allStages }: Props) {
   const meta = {
-    title: 'Virtura- Stage ',
+    title: 'Virtura- Stage Demo - Virtual Event Starter Kit',
     description: META_DESCRIPTION
   };
   return (
